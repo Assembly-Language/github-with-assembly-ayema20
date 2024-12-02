@@ -15,6 +15,9 @@ remarks about sum-even
 ?
 ?
 ?
+DFGHJ
+DFGHJ
+GHJK
 
 
 
